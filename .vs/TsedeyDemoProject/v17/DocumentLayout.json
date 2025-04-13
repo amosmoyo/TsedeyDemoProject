@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{107C5F12-B358-4F98-97D7-331912F4DE34}|TsedeyDemoProject\\TsedeyDemoProject.csproj|c:\\users\\amos.moyo\\downloads\\tsedey\\tsedeydemoproject\\tsedeydemoproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{107C5F12-B358-4F98-97D7-331912F4DE34}|TsedeyDemoProject\\TsedeyDemoProject.csproj|solutionrelative:tsedeydemoproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{107C5F12-B358-4F98-97D7-331912F4DE34}|TsedeyDemoProject\\TsedeyDemoProject.csproj|c:\\users\\amos.moyo\\downloads\\tsedey\\tsedeydemoproject\\tsedeydemoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{107C5F12-B358-4F98-97D7-331912F4DE34}|TsedeyDemoProject\\TsedeyDemoProject.csproj|solutionrelative:tsedeydemoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\README.md",
+              "RelativeDocumentMoniker": "TsedeyDemoProject\\README.md",
+              "ToolTip": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\README.md",
+              "RelativeToolTip": "TsedeyDemoProject\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-13T16:40:08.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProcessConfigs.cs",
               "DocumentMoniker": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\Utils\\ProcessConfigs.cs",
               "RelativeDocumentMoniker": "TsedeyDemoProject\\Utils\\ProcessConfigs.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "TsedeyDemoProject\\Utils\\ProcessConfigs.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAPAAAADuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:46:33.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T15:46:33.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\appsettings.json",
               "RelativeDocumentMoniker": "TsedeyDemoProject\\appsettings.json",
@@ -60,20 +76,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TsedeyDemoProject",
+              "DocumentIndex": 5,
+              "Title": "TsedeyDemoProject.csproj",
               "DocumentMoniker": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\TsedeyDemoProject.csproj",
               "RelativeDocumentMoniker": "TsedeyDemoProject\\TsedeyDemoProject.csproj",
               "ToolTip": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\TsedeyDemoProject.csproj",
               "RelativeToolTip": "TsedeyDemoProject\\TsedeyDemoProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-13T15:30:58.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T15:30:58.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "TsedeyDemoProject\\Controllers\\MainController.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "TsedeyDemoProject\\Controllers\\MainController.cs",
               "ViewState": "AQIAAHsAAAAAAAAAAAAAAIAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:36:50.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T15:36:50.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProcessRequest.cs",
               "DocumentMoniker": "C:\\Users\\Amos.Moyo\\Downloads\\Tsedey\\TsedeyDemoProject\\TsedeyDemoProject\\Services\\ProcessRequest.cs",
               "RelativeDocumentMoniker": "TsedeyDemoProject\\Services\\ProcessRequest.cs",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "TsedeyDemoProject\\Services\\ProcessRequest.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAAAHcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T15:25:10.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T15:25:10.032Z"
             }
           ]
         }
